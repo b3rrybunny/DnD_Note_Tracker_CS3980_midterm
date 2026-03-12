@@ -10,7 +10,7 @@
   <li>In virtual environment, run <code>pip install -r requirements.txt</code></li>
   <li>Navigate to backend <code>cd backend</code></li>
   <li>Start backend <code>uvicorn main:app --reload</code></li>
-  <li>Navigate to frontend <code>cd frontend</code></li>
+  <li>Navigate to frontend <code>cd ..</code> <code>cd frontend</code></li>
   <li>Install dependencies <code>npm install</code></li>
   <li>Start backend <code>npm run dev</code></li>
 </ol>
